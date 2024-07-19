@@ -1,3 +1,5 @@
 check practice
 hello
 test
+
+conflicts
