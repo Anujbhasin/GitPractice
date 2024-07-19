@@ -2,4 +2,4 @@ check practice
 hello
 test
 
-conflicts dheeraj
+conflicts
